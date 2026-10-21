@@ -1,0 +1,2 @@
+import type { Produto, Cliente, ItemCarrinho, Pedido } from './types';
+import type { cadastrarProduto, listarProdutos, buscarProdutoPorId, buscarProdutosPorNome, buscarProdutosPorCategoria } from './produtos';
